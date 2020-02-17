@@ -1,0 +1,21 @@
+.result {
+    display: flex;
+    flex-direction: row-reverse;
+    height: 110px;
+    width: 100%;
+    text-align: right;
+    padding: 5px;
+    padding-top: 60px;
+    background-color: rgb(179, 152, 152);
+    color: white;
+    font-size: 3vw;
+    font-weight: bolder;
+}
+
+.result-text {
+    flex-basis: 90%;
+}
+
+p {
+    margin: 0;
+}

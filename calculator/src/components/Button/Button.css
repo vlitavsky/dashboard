@@ -1,0 +1,20 @@
+.button-body {
+    width: 62.5px;
+    height: 62.5px;
+    font-weight: bolder;
+    background-color: white;
+    color: black;
+    opacity: 70%;
+    border-width: thin;
+    border-style: solid;
+    border-color: #c7bdbd;
+}
+
+.button-body:last-child {
+    flex: 1;
+    background-color: rgb(223, 171, 103);
+}
+
+.button-body:hover {
+    background-color: rgb(223, 171, 103);
+}

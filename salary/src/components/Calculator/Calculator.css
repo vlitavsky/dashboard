@@ -1,0 +1,42 @@
+
+.form {
+    flex: 0 0 50%;
+    background-color: #F2F2F2;
+    border-radius: inherit;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16)
+  }   
+  
+.p-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+    height: 150px;
+    border-radius: 25px 25px 0px 0px;
+    background-color: rgb(42, 102, 96);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+
+}
+.button-submit {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    background-color: rgb(64, 153, 144);
+    color: white;
+    border: none;
+    width: 60%;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 25px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+}
+
+.button-submit:hover {
+    background-color: rgb(42, 102, 96);
+}

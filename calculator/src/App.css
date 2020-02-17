@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  background-color: chocolate;
+ }
+ 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+ }
+ 
+ .container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 250px;;
+  margin: auto;
+  margin-top: 15vh;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}

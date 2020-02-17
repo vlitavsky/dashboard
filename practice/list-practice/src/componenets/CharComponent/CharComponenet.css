@@ -1,0 +1,7 @@
+.sliced-component {
+    display: inline-block;
+    margin: 16px;
+    text-align: center;
+    border: 1px solid;
+    padding: 5px;
+}

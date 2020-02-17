@@ -1,0 +1,35 @@
+.input-container {
+    padding-top: 9%;
+}
+.inputs {
+    display: flex;
+    align-items: center;
+    margin-left: 3vh;
+    margin-top: 1vh;
+    border: none;
+    border-radius: inherit;
+    padding: 5px;
+    width: 80%;
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 25px;
+}
+.inputs::placeholder {
+    font-weight: lighter;
+    opacity: 70%;
+}
+
+.button-submit:hover {
+    background-color: rgb(42, 102, 96);
+}
+
+p {
+    display: flex;
+    font-size: 12px;
+    padding: 10px;
+    color: rgb(26, 61, 58);
+}
+
+.extra {
+    font-weight: bold;
+}
